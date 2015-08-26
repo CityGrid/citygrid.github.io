@@ -6,3 +6,14 @@
 #logo_c {
     background-color: #fff;
 }
+.img-responsive {
+    margin: 0 auto;
+}
+.btn-primary {
+    background-color: #2998CE;
+    border-color: #2998CE;
+}
+.btn-primary:hover {
+    background-color: #217AA5;
+    border-color: #217AA5;
+}
