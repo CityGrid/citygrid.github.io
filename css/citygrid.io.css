@@ -17,3 +17,7 @@
     background-color: #217AA5;
     border-color: #217AA5;
 }
+.dim {
+    opacity: 0.3;
+    filter: alpha(opacity=30);
+}
